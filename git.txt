@@ -1,0 +1,14 @@
+git commands
+==========
+
+git status: represent the status of git
+
+git config --list
+
+git log: gives u the history of the file
+
+git add filename --> to stage the file
+
+git commit -m "message"
+
+
